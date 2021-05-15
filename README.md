@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mouna
+- 👋 Hi, I’m Mouna Naravani
 - 👀 I’m interested in University Teaching, Programming, Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me mouna139@gmail.com
